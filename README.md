@@ -1,2 +1,2 @@
-Demo - https://avishka-portfolio.netlify.app/
+https://avishka-portfolio.netlify.app/
 
